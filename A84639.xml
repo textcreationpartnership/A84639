@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An unhappy vievv of the vvhole behaviour of my Lord Duke of Buckingham, at the French island, called the isle of Rhee / discovered by Colonell William Fleetwood, an unfortunate commander in that untoward service.</title>
+            <author>Fleetwood, William, Colonel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84639</idno>
+            <idno type="STC">Wing F1259</idno>
+            <idno type="STC">Thomason E430_14</idno>
+            <idno type="STC">ESTC R202115</idno>
+            <idno type="EEBO-CITATION">99862517</idno>
+            <idno type="PROQUEST">99862517</idno>
+            <idno type="VID">114680</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84639)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114680)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E430[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An unhappy vievv of the vvhole behaviour of my Lord Duke of Buckingham, at the French island, called the isle of Rhee / discovered by Colonell William Fleetwood, an unfortunate commander in that untoward service.</title>
+                  <author>Fleetwood, William, Colonel.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March 3d"; the 8 in imprint date is crossed out and replaced with "7".</note>
+                  <note>Reproductions of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Buckingham, George Villiers, --  Duke of, 1592-1628 --  Early works to 1800.</term>
+               <term>Ré Expedition, 1627 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114680:1" rendition="simple:additions"/>
+            <p>An Unhappy VIEVV OF THE VVhole behaviour of my Lord Duke of BUCKINGHAM, AT THE French Iſland, called the Iſle of RHEE</p>
+            <p>Diſcovered By Colonell <hi>William Fleetwood,</hi> an un<g ref="char:EOLhyphen"/>fortunate Commander in that untoward SERVICE.</p>
+            <p>LONDON, Printed for <hi>R. Smith.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114680:2"/>
+            <pb n="1" facs="tcp:114680:2"/>
+            <head>AN Unhappy view of the whole behaviour of my Lord Duke of <hi>Buckingham,</hi> at the French Iſland, called the Iſland of REE.</head>
+            <p>AT a private aſſembly at the Councell Table by the King and the Lords, and to extinguiſh the ignominy of the former ſervice of <hi>Cales,</hi> an attempt into <hi>France</hi> was concluded on, and the Duke deſign<g ref="char:EOLhyphen"/>ed for Generall, who took the honour indifferently gladly, preſuming to recover his loſt honour and credit by his own Proweſſe in his Exploit.</p>
+            <p>Hereupon began a ſtrong preſſe of Souldiers, ſo large a proviſion of Victuals, and other mainte<g ref="char:EOLhyphen"/>nance for them, as could not but in common rea<g ref="char:EOLhyphen"/>ſon promiſe a boon voyage to come, if the intent were cloſely carryed.</p>
+            <p>But before any Souldiers were imbarqued, the Duke ouc of an evill will to the weal-publique, di<g ref="char:EOLhyphen"/>vulged the plot at Court very freely, without any feare or wit, whereby the worſt of our ill-willers whereſoever (taking but the pains to addreſſe them<g ref="char:EOLhyphen"/>ſelves thither) might know al for an eaſie attention, which muſt needs be half a prevention of the hopes in queſtion.</p>
+            <p>
+               <pb n="2" facs="tcp:114680:3"/>
+Upon the point of our firſt ſetting to Sea, the Duke out of a diſtruſt of ſome miſerable death that might befall himſelf in the voyage, as of the conſi<g ref="char:EOLhyphen"/>deration of being for a time eſtranged from his ef<g ref="char:EOLhyphen"/>feminate pleaſures here at home, from which no warlike ſervice could ever with-draw him, would willingly have relinquiſht his Charge; without a<g ref="char:EOLhyphen"/>ny allegation, either of the weaknes, unexperience, or inſufficiency of his own perſon, but that he was prickt and ſpurred on to it afreſh, by the onely perſwaſion of his Majeſty: For that the eyes of all the Troops, were fixed on him for their Chieftain.</p>
+            <div type="part">
+               <head>Vpon this we put forth to Sea, and inclined our ſelves by the Dukes direction to the Iſland of <hi>Rhee,</hi> or <hi>St. Martins.</hi>
+               </head>
+               <p>Where, as well every Mechanick and common Souldiers, as Captains, and Collonels in our Com<g ref="char:EOLhyphen"/>pany, knew, where our Journey was to end. But, <hi>Lord!</hi> the Dukes carriage at Sea was obſtinate and ridiculous, and altogether backward to his faith and credit, laid to pawn here at home in his ab<g ref="char:EOLhyphen"/>ſence; for whatſoever the circumſpect Comman<g ref="char:EOLhyphen"/>ders under him had propounded, as behoovefull, he would be ſure to gain-ſay it, under a vile penal<g ref="char:EOLhyphen"/>ty, to command, that no Invention ſhould be ſo
+<pb n="3" facs="tcp:114680:3"/>much as ſet on foot, but what proceeded from his ſtudy and approbation, ſo to be wholly inriched &amp; dignified with the Attribute of compaſſing all the good fortune that could any way attend the Enter<g ref="char:EOLhyphen"/>prize, as he now, contrariwiſe, ſurfeits of the diſ<g ref="char:EOLhyphen"/>grace.</p>
+               <p>The Iſlanders, through the largenes of the Dukes tongue, being too inquiſitive after their fortificati<g ref="char:EOLhyphen"/>ons of divers plaguie Paſſengers at Sea, were ac<g ref="char:EOLhyphen"/>quainted with our meanings, long before they ſaw us, and we arrived not there without an unlucky expectation, and entertainment.</p>
+               <p>After we had viewed the Fort and Scituation, we began to demand of the Duke, wherein our Country could be advantaged, by ſuppreſſing ſuch a vaſt ſtrong, ill-favoured place, in that the mainte<g ref="char:EOLhyphen"/>nance thereof after our conqueſt, would yearly ex<g ref="char:EOLhyphen"/>pend very neer as much, as the profit could amount unto.</p>
+               <p>To this he replyed, that through his own En<g ref="char:EOLhyphen"/>treaty, upon His Majeſties Signing of his Com<g ref="char:EOLhyphen"/>miſſion, he was only put upon this Iſland, which, if he ſhould but recover, at his return, it would redeem all his loſt honour at home; and ſo commanded us to intrench our ſelves.</p>
+               <p>We all being confident, that the Expreſſion could not but proceed from an undaunted heart,
+<pb n="4" facs="tcp:114680:4"/>ſome of us preſently in a deſperate manner, went on ſhore (expecting the Duke and his Retinue at our heeles) where we were ſuddenly unawares en<g ref="char:EOLhyphen"/>countred very ſharpely by ſome Troops of <hi>French</hi> Horſemen (which by means that the Duke kept at Sea, and came not in to our ſuccour) ſo oppreſſed us with their multitude, that many of our compa<g ref="char:EOLhyphen"/>ny in our return to our ſhips, were hewn to pieces, or drowned in the water, as Sir <hi>William Hayden, Mr. Temple</hi> of <hi>Lincoln Inne,</hi> and many other of good pa<g ref="char:EOLhyphen"/>rentage.</p>
+               <p>The third day after the repulſe, we renewed our ſtrength, and went all again on ſhore, and there for<g ref="char:EOLhyphen"/>tified our ſelves for our moſt advantage, and in ſhort time after, ſo furiouſly ſummoned the Iſland, that the Inhabitants were conſtrained to retire to their Fort, as their laſt refuge, to the gates whereof we purſued them with great terror, and took ſome priſoners.</p>
+               <p>Then perceiving the ſtrength and compaſſe of the Fort, and underſtanding that it was well Victu<g ref="char:EOLhyphen"/>alled for a lingring Siege, we recoyled back, and in<g ref="char:EOLhyphen"/>trenched our ſelves anew from the annoy of their Cannon, and by degrees we came at laſt to invi<g ref="char:EOLhyphen"/>ron it almoſt round (as far as it was any way need<g ref="char:EOLhyphen"/>full) and yet kept out of the danger of their Ordi<g ref="char:EOLhyphen"/>nance ſtill, and for a good while deprived them of
+<pb n="5" facs="tcp:114680:4"/>all ſuccours, both by Sea and land, and ſo planted our Battery.</p>
+               <p>Thus farre we ſped indifferently well, having, in recompence of our firſt overthrow, gained the I<g ref="char:EOLhyphen"/>ſland, and put our ſelves in poſſeſſion of it.</p>
+               <p>The honour and applauſe whereof deteſteth the Duke and his beſt merits in the whole action, and, next under God, reflects on the Ever-having fame and memory of that Right Valiant, and Heroique Gentleman Sir <hi>John Burrows,</hi> by whoſe onely reach it was compaſſed, and whole act herein, ſince in a calme ſeaſon, he was afterwards trecherouſly ſlain, deſerves, if one may ſay ſo without preſumption, to immortallize his Soule.</p>
+               <p>The Fort now remaining unyeelded, and ſtand<g ref="char:EOLhyphen"/>ing betwixt us and a reaſonable Conqueſt, by the powerfull and ſearching perſwaſion of Sir <hi>John Burrows,</hi> as well common Souldiers as Captains proteſted to have too, or elſe to dye in the field, which promiſe, the very Flower of all our Com<g ref="char:EOLhyphen"/>manders there, were inforced in the end to make good, to the very effuſion of their deareſt bloud: And thus we continued our Battery for above two moneths ſpace; and yet in all that time, through the extraordinary ſtrength of the place, by reaſon of the Rampiers, and Barracadoes, that the defen<g ref="char:EOLhyphen"/>dants had new erected within, we could make no
+<pb n="6" facs="tcp:114680:5"/>breach, nor take other opportunity to give an aſ<g ref="char:EOLhyphen"/>ſault.</p>
+               <p>Whereupon for that our proviſion held out well, it was determined by Sir John Burrowes (whoſe weakeſt adviſe at this time, the multitude were readier to follow than the beſt of the Dukes) that we ſhould beleagure the round Fort ſtill as we had begun, and without a ſurrender thereof by a long ſeige, ſhould ſtarve up the defendants, and (all things conſidered) this was the onely way to ſur<g ref="char:EOLhyphen"/>prize ſo impregnable a place.</p>
+               <p>The Duke was infinitly incenſed with this ſway of Sir <hi>John-Burrowes,</hi> and his owne neglect, and therefore by degrees hee indeavoured to allure the hearts of the Souldiers from him, which bare words could not doe, nor bring to paſſe till he privatly had diſtributed to ſome of them aſ<g ref="char:EOLhyphen"/>ſenting, the pay of the reſt diſcenting, whereup<g ref="char:EOLhyphen"/>on ſuch a murmuring diſcontent aroſe betwixt the faction of Sir <hi>John Burrowes</hi> and the <hi>Duke,</hi> that had not Sir <hi>John</hi> ſuddenly quieted all by his wiſdome, we had certainly mutined amongſt our ſelves to all our confuſion, and ſo have given the Enemy an oc<g ref="char:EOLhyphen"/>caſion of advantage, but they ſeemed to be recon<g ref="char:EOLhyphen"/>ciled, and new celebrated the amity, the ſame night, by a private Supper in the Dukes Tent</p>
+               <p>But ſuch is the malice of a vindicative heart, that
+<pb n="7" facs="tcp:114680:5"/>it is never appeaſed, but remaines ſtill inexorable and deviliſh.</p>
+               <p>For the next morning Sir <hi>John Burrows</hi> (accord<g ref="char:EOLhyphen"/>ing to his daily wont) ſurveying his own Trenches and being cleare out of all danger of the Fort, was in an inſtant ſtricken dead in the place with a muſ<g ref="char:EOLhyphen"/>ket, ſhot by an unknown hand, and ſo gives up his ſpotleſſe ſoul into the joyes of Heaven, that had ne<g ref="char:EOLhyphen"/>ver done but good on earth.</p>
+               <p>The newes and manner of this bred a new hur<g ref="char:EOLhyphen"/>ly burley in the Campe, and ready we were to dye againe upon each others ſwords, but through freſh rewards from the Duke to ſome, and Lord like meanes to other ſome that had been formerly re<g ref="char:EOLhyphen"/>warded, all were once more quieted, and our pro<g ref="char:EOLhyphen"/>viſion was much leſſened, whereupon my Lord of <hi>Holland</hi> was ſent to for our releife but came not.</p>
+               <p>About this time there was news, that the French King approached with releife for the Fort, and to raiſe our ſeig wherupon the Duke for the ſafeguard of his owne perſon (wheras his retinew were the ſtrongeſt already, withdrew two of the beſt Regim. from the ſure places wher Sir <hi>John Burrows</hi> had for<g ref="char:EOLhyphen"/>merly allotted them for his own defence in parti<g ref="char:EOLhyphen"/>cular, and ſo left al manleſſe, which the <hi>French</hi> Con<g ref="char:EOLhyphen"/>voyes perceiving, entred there the ſame night, &amp; re<g ref="char:EOLhyphen"/>leived the <hi>Fort</hi> in abundance both with freſh <hi>ſoldier</hi>
+                  <pb n="8" facs="tcp:114680:6"/>and proviſion, and ſo nightly for a week together came under our noſes with the like ſtuffe, and yet the Duke would not ſuffer us to encounter them, pretending that hee feared the French King at his backe; when (alas) there was neither King nor French Army there.</p>
+               <p>When the Fort was as well manned as victualed, the defendants began divers times to confront and brave us, before their maine ſally out, yet this our Generall would neither permit us to incounter them, nor at laſt to continue our battery, ſo that in a very diſcontented manner we lay idle, riotouſly conſuming the remainder of His Majeſties allow<g ref="char:EOLhyphen"/>ance, without attempting any thing worth the while: Inſomuch that I my ſelfe impartially de<g ref="char:EOLhyphen"/>manded of the Duke what he would doe with us, whether he longed to inthrall us to his owne igno<g ref="char:EOLhyphen"/>ble pleaſure, or to ſtarve us up inſtead of the de<g ref="char:EOLhyphen"/>fendants, but could draw no other anſwer from him, but that he was our General, and ſo we ſhould know it by the ſtrict hand he would carry over us.</p>
+               <p>
+                  <hi>And for our further proceedings againſt the Fort, wee ſhould goe on in our idleneſſe till wee heard further from him.</hi>
+               </p>
+               <p>Wee that were Colonels and prime Officers un<g ref="char:EOLhyphen"/>der him could hardly brook this his untoward car<g ref="char:EOLhyphen"/>irage (as raw meat on our ſtomachs) yet for quiet<g ref="char:EOLhyphen"/>neſſe
+<pb n="9" facs="tcp:114680:6"/>ſake, to repell mutenies in the Camp, we ſmo<g ref="char:EOLhyphen"/>thered our grudge, without any appearance of heart burning to the multitude, and ſo lay expecting a miſerable ſucceſſe of all our undertakings. After<g ref="char:EOLhyphen"/>wards the Duke told us, that he had ſecret intelli<g ref="char:EOLhyphen"/>gence out of the Fort, that moſt of their beſt Soul<g ref="char:EOLhyphen"/>diers had conveied themſelves away by night, for feare of a new ſupply by my Lord of <hi>Holland,</hi> and that the Remnant (if we lay ſtill intrencht) would ſhortly become our Vaſſals, which news being con<g ref="char:EOLhyphen"/>firmed with as large proteſtations as could proceed from the heart of any Chriſtian man, made us ſo farre to credit him, as to lie ſecure, and to preſume, that this, once done, would make us all as happy, as our confidence in his word, could any wayes make us miſerable by the contrary.</p>
+               <p>The very next morning after this conſultation, which fell out to be the day of doom to moſt of us, the Duke being ſenſible of his perfideous dealings, &amp; that was the day the Defendants would encoun<g ref="char:EOLhyphen"/>ter us to death, notwithſtanding what his engage<g ref="char:EOLhyphen"/>ment for our ſafety had formerly bin to the contra<g ref="char:EOLhyphen"/>ry, privily in his Tent, by the help of his faction; attired one of his own followers, every way much reſembling himſelf, in his warlike habit &amp; colours, with inſtructions ſuitable to the deceipt, and then diſguiſed, as a faint and impotent ſouldier, got him<g ref="char:EOLhyphen"/>ſelf
+<pb n="10" facs="tcp:114680:7"/>a Shipboard, and not onely left us ignorant of the bloody intent towards us, but alſo made us un<g ref="char:EOLhyphen"/>capable to prevent it, when we ſhould.</p>
+               <p>Immediatly upon this, we ſuſpecting as little this treachery (as that which came of it) the defendants numberleſſe ſallied out, and with ſuch violence, and fury aſſayled us in our Trenches (they taking moſt of us unarmed, and daunted with the ſight of the multitude) that wee were glad to fly for our lives.</p>
+               <p>Which retreat coſt moſt of us our lives (as the aſ<g ref="char:EOLhyphen"/>ſault and both fel out in the end) to make up a con<g ref="char:EOLhyphen"/>queſt to the <hi>French,</hi> &amp; an abſolute overthrow to us.</p>
+               <p>The wildneſſe of my Lord <hi>Mountjoyes</hi> horſe was the cauſe of his ſurprizall, and as well of the death of ſome of our own men, for that he not onely a<g ref="char:EOLhyphen"/>voyded the Enemies charge, but confuſedly ranne upon, and beat back divers of our beſt horſes, which otherwiſe to the very death would have ſtood it out</p>
+               <p>In our flight we aimed at a certain narrow bridge, over agreat River, which if we could have recover<g ref="char:EOLhyphen"/>ed and paſſed, we had ſtopt the purſuit of our Ene<g ref="char:EOLhyphen"/>mies, but through their pollicy we were prevented by their overturning a loded Cart there beforehand which we muſt either climbe over, or leape into the River, or ſalt-pits, which moſt of our Com<g ref="char:EOLhyphen"/>pany being unable to doe, were inſtantly hewen
+<pb n="11" facs="tcp:114680:7"/>in peeces, Sir <hi>Charles Rich</hi> and others of great e<g ref="char:EOLhyphen"/>ſteeme, who in the very deadly extremity were offered quarter; but would not, rather chuſing to dye honourably, then longer to live with infa<g ref="char:EOLhyphen"/>my and torment, I my ſelfe perceiving the folly of reſiſting any longer, having one of the beſt Horſes in the Company, was forced to take an infirme Salt-pit, where both my ſelfe and my horſe ſtuck faſt in the ground, and where I had ſuddenly a gaſhly wound in the legge with a Bullet, and ſo I lay ſtruggling for life, Lord, Lord, (me thought) what paine it was to dye ſo, and divers of our Company and Commanders were in the like di<g ref="char:EOLhyphen"/>ſtreſſe, But in the end the <hi>French</hi> horſemen, wanting ſhot to reach us in the water, by the valiancy of the poore remainder of our ſouldiers, that were gotten over the Cart, wee were dragged a ſhoare, and ſo being at that time unpurſued, were conveyed out of danger.</p>
+               <p>During the time of our conflict, our counterfeit Generall fought very reſolutely, and got a gaſh or two in his ſhoulder for his pains and labour, which (before we knew the deceit) made us, notwith<g ref="char:EOLhyphen"/>ſtanding our loſſes, to commend him for a valour<g ref="char:EOLhyphen"/>ous Commander, but through the <hi>Dukes</hi> back ward<g ref="char:EOLhyphen"/>nes, ſome of thoſe that were truſted with the know<g ref="char:EOLhyphen"/>ledge of this Villany, we underſtood it all in
+<pb n="12" facs="tcp:114680:8"/>two dayes after, in our comfortleſſe journey home<g ref="char:EOLhyphen"/>wards, and we had thereupon preſently mortalized his carkaſſe for amends, but that, upon a more ma<g ref="char:EOLhyphen"/>ture deliberation, we thought it fitter to let him die at home, by the inqueſtionable hand of the Parlia<g ref="char:EOLhyphen"/>ment, ſo he himſelf could not take this as his pre<g ref="char:EOLhyphen"/>ſervation, but as his reſervation to a more infamous end. And truely ſhould the revenge of the Parlia<g ref="char:EOLhyphen"/>ments almoſt extremity ſeize upon him, it would be but correſpondent to his merits, that would find in his heart to lye ſecure himſelf, and all the while to ſee us, that were his charge, knocked down, and ſlaughtered like dogges: O let him go to the grave and let no man ſtay him, for it is a ſin to pity him in his worſt eſtate.</p>
+               <p>My Lord <hi>Mountjoy,</hi> was the onely man of note of our party, that accepted Quarter, and was ſince very honourably ranſomed, and ſent home againe, which proceeded more from the Heroique cle<g ref="char:EOLhyphen"/>mency of the <hi>French</hi> King, then for any deſert, ei<g ref="char:EOLhyphen"/>ther of his own or ours.</p>
+               <p>One of our <hi>French</hi> priſoners that we have taken at our firſt encounter, confeſſed to me, in our re<g ref="char:EOLhyphen"/>turn homewards, that had Sir <hi>John Burrowes</hi> lived one two dayes longer, the Defendants were conclu<g ref="char:EOLhyphen"/>ded to have given up the Fort, and all the treaſure in it, to our diſpoſure, in reſpect they had ſo miſerable
+<pb n="13" facs="tcp:114680:8"/>experience of his vigilant intercepting of all their convoyes, and ſtopping of their paſſages; And therefore this reach could not but redownd to their utter confuſion in the end, unleſſe they ſubmitted themſelves betimes, but the news of his death was joyous unto them, as it was grievous unto us, and made them reſolve to dye in their own defences, but the miſtake at laſt coſt moſt of us our lives.</p>
+               <p>And this is the whole deſcription of our miſ-for<g ref="char:EOLhyphen"/>tunes, which upon a due conſideration (I think) muſt needs provoke the pooreſt affected of our na<g ref="char:EOLhyphen"/>tion, to indevour a revenge to be done; In all our future Voyages, he muſt and will be ſtill our Ge<g ref="char:EOLhyphen"/>nerall, and then to thrive (at leaſt) after the old fa<g ref="char:EOLhyphen"/>ſhion, we muſt aſſure our ſelves.</p>
+               <p>We have not been a little famous in France, for Conqueſt heretofore with a few, but God Almigh<g ref="char:EOLhyphen"/>ty is omnipotent and juſt, and we now ſee it is his pleaſure, to make us all to ſuffer for the ſin and la<g ref="char:EOLhyphen"/>ſcivious life of this one man: His will be done in all.</p>
+               <p>And if we can, we muſt be content (beſides too notwithſtanding) he hath been the death of divers of the nobility, the unlucky overthrow of all our late voyages.</p>
+               <p>The unknown conſumer of our Treaſury, and the utter confuſion of the poore <hi>Proteſtants</hi> in <hi>France,</hi> now daily maſſacred without all pity,
+<pb n="14" facs="tcp:114680:9"/>through their needleſſe defence of their Religion.</p>
+               <p>Yet it is the Kings pleaſure ſtill to afford him his wonted grace and connivance for all this; And Treaſon it is apparent to denounce him faulty in any thing; But let his Majeſty look to it, for his longer ſheltring of this rich Traytor, and falſe-hear<g ref="char:EOLhyphen"/>ted man, both to God and his Country, which will be the ruine both of himſelf and his kingdom at laſt, yet then I have hope (out of the integrity of his heart, now whileſt it is called to day, and before the evill day come) he will give him over to the Parliament, whilſt it is of ſtrength to puniſh him; And that they for their parts will ſend him to H. without any more adoe.</p>
+               <p>
+                  <hi>If any hereafter ſhall maligne, or goe about to diſprove me in any one of theſe points (ſo I may be unqueſtionable for this preſumption) I will, notwithſtanding my lame<g ref="char:EOLhyphen"/>neſſe, maintaine all upon notice to his face, to the expence of my deareſt blood; In the interim, I expect good news from the Parliament, by the next faire wind.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
